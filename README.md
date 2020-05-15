@@ -18,13 +18,16 @@
 
 #### Code
     `
-    #Zackloveschipotle.exe
+    #Zackloveschipotle.py
     
     #Boolean True=Hungry False=Full
     stomach_indicator=1
 
-
-    if stomach_indicator== 
+    #Statement to determine if hungry or not
+    if stomach_indicator == 1:
+        print("Time to get some Chipotle!")
+    else:
+        print("I already ate")
     `
 
 ---
@@ -33,11 +36,7 @@
  - [YouTube-Trending](https://www.youtube.com/feed/trending)
  - [Amazon](https://www.amazon.com/ref=nav_logo)
  - [MicroCenter](https://www.microcenter.com/)
- - [Markdown]()
-
----
-
-#### Images
+ - [Markdown](markdown2.md)
 
 ---
 
