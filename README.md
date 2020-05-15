@@ -30,10 +30,10 @@
 ---
 
 #### Some Links
-  [YouTube-Trending](https://www.youtube.com/feed/trending)
-  [Amazon](https://www.amazon.com/ref=nav_logo)
-  [MicroCenter](https://www.microcenter.com/)
-  [Markdown]()
+ - [YouTube-Trending](https://www.youtube.com/feed/trending)
+ - [Amazon](https://www.amazon.com/ref=nav_logo)
+ - [MicroCenter](https://www.microcenter.com/)
+ - [Markdown]()
 
 ---
 
