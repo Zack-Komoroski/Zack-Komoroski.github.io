@@ -1,12 +1,10 @@
 #### Images
 
-    Image is linked within repo.
-    
-    ![TravisScott Going Sicko Mode](Travis.png)
+Image is linked within repo.
+![TravisScott Going Sicko Mode](Travis.png)
 
-    Image from web.
-
-    ![Fort Kickass](https://vignette.wikia.nocookie.net/archer/images/8/8e/Fort_kickass.JPG/revision/latest/scale-to-width-down/340?cb=20130131090123)
+Image from web.
+![Fort Kickass](https://static1.fjcdn.com/comments/Love+archer+_a7291b0c964150f35c5245cdf7490241.png)
 
 ---
 
